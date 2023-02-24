@@ -1,7 +1,7 @@
 title: LapiDados
 description: Teste de Blog
 
-url: https://ezequielpf.github.io/long-haul-teste/
+url: https://ezequielpf.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
